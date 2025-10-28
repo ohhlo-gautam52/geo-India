@@ -37,7 +37,7 @@ cd geo-india
 ## 3️⃣ Run the development server
 
  - npm run dev
-# Then open http://localhost:3000 in your browser.
+ -  Then open http://localhost:3000 in your browser.
 
 ## 📁 Folder Structure
 
